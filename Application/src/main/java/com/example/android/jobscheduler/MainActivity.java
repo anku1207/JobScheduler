@@ -76,6 +76,7 @@ public class MainActivity extends Activity {
 
     private int mJobId = 0;
 
+
     // Handler for incoming messages from the service.
     private IncomingMessageHandler mHandler;
 
